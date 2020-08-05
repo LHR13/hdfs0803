@@ -1,0 +1,4 @@
+/home/hadoop/hdfs0803/src/main/java/com/atguigu/hdfsclient/WordCount/WCDriver.java
+/home/hadoop/hdfs0803/src/main/java/com/atguigu/hdfsclient/WordCount/WCMapper.java
+/home/hadoop/hdfs0803/src/main/java/com/atguigu/hdfsclient/WordCount/WCReducer.java
+/home/hadoop/hdfs0803/src/main/java/com/atguigu/hdfsclient/HDFSClient.java
