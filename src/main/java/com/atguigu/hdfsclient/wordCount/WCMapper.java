@@ -1,4 +1,4 @@
-package com.atguigu.hdfsclient.WordCount;
+package com.atguigu.hdfsclient.wordCount;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

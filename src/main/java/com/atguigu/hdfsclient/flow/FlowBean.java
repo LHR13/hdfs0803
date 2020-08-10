@@ -1,11 +1,10 @@
-package com.atguigu.hdfsclient.Flow;
+package com.atguigu.hdfsclient.flow;
 
 import org.apache.hadoop.io.Writable;
 
 import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
-import java.io.Serializable;
 
 public class FlowBean implements Writable {
 

@@ -1,4 +1,4 @@
-package com.atguigu.hdfsclient.Flow;
+package com.atguigu.hdfsclient.flow;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
